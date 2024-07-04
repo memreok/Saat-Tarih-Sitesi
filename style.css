@@ -1,0 +1,19 @@
+p{
+    text-align : center; 
+    margin: 0px;
+    padding: 0px;
+}
+#saat{
+    font-size: 150px;
+    color: black;
+    font-family: fantasy;
+    margin-top: 150px;
+}
+#tarih{
+    font-size: 75px;
+    font-family: cursive;
+}
+#gun{
+    font-size: 75px;
+    font-family:  monospace; 
+}
